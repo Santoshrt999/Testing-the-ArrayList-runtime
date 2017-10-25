@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author S528130
+ * @author Santosh Ravi Teja Goteti
  */
 public class ArrayTimeTesting {
 
